@@ -4,4 +4,4 @@ En aquest repositori, es troben els codis d'obtenció i anàlisis de dades del d
 - Codi obtenció de dades 
 - Codi anàlisis de dades
 - Pla de campanya per la mesura amb KduPRO multiespectral
-- Manual KduPRO multiespectral
+- Manual KduPRO multiespectral 
